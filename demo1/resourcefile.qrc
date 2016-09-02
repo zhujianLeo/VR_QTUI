@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/3D_2.png</file>
+        <file>image/3D.png</file>
+        <file>image/camera_1.png</file>
+        <file>image/camera_2.png</file>
+        <file>image/tab1_1.png</file>
+        <file>image/tab1_2.png</file>
+        <file>image/tab2_1.png</file>
+        <file>image/tab2_2.png</file>
+        <file>image/fake1.jpg</file>
+        <file>image/fake2.jpg</file>
+        <file>image/fake3.jpg</file>
+        <file>image/fake4.jpg</file>
+        <file>image/fake5.jpg</file>
+        <file>image/bg_image.jpg</file>
+        <file>image/innormal_statu.png</file>
+        <file>image/normal_statu.png</file>
+        <file>image/bg_mid.png</file>
+        <file>image/selected_icon.jpg</file>
+        <file>image/chosed.png</file>
+        <file>image/fake_data.jpg</file>
+        <file>image/unchosed.png</file>
+        <file>image/LOGO.png</file>
+    </qresource>
+</RCC>
